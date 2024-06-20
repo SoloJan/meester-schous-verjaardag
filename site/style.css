@@ -5,7 +5,7 @@ body {
     justify-content: center;
     border-radius: 5px;
     transform: rotate(360deg);
-    animation: blinkingBackground 20s infinite;
+    animation: blinkingBackground 40s infinite;
 
 }
 
